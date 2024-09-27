@@ -3,17 +3,19 @@
     {
       "id": 1,
       "word": "ありがとう",
+      "kanji": "",
       "options": [
         "Thank you",
         "Hello",
         "Goodbye",
         "Excuse me"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
-      "word": "猫",
+      "word": "ねこ",
+      "kanji": "猫",
       "options": [
         "Dog",
         "Cat",
@@ -25,6 +27,7 @@
     {
       "id": 3,
       "word": "おはよう",
+      "kanji": "",
       "options": [
         "Good night",
         "Good evening",
@@ -35,7 +38,8 @@
     },
     {
       "id": 4,
-      "word": "水",
+      "word": "みず",
+      "kanji": "水",
       "options": [
         "Water",
         "Fire",
@@ -46,7 +50,8 @@
     },
     {
       "id": 5,
-      "word": "愛",
+      "word": "あい",
+      "kanji": "愛",
       "options": [
         "Dream",
         "Love",
@@ -54,6 +59,66 @@
         "Hope"
       ],
       "answer": 1
+    },
+    {
+      "id": 6,
+      "word": "でんしゃ",
+      "kanji": "電車",
+      "options": [
+        "Train",
+        "Bus",
+        "Bicycle",
+        "Car"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "word": "がっこう",
+      "kanji": "学校",
+      "options": [
+        "Office",
+        "Home",
+        "School",
+        "Hospital"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "word": "ともだち",
+      "kanji": "友達",
+      "options": [
+        "Family",
+        "Friend",
+        "Teacher",
+        "Colleague"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "word": "たべもの",
+      "kanji": "食べ物",
+      "options": [
+        "Drink",
+        "Clothing",
+        "Food",
+        "Book"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "word": "いぬ",
+      "kanji": "犬",
+      "options": [
+        "Cat",
+        "Bird",
+        "Fish",
+        "Dog"
+      ],
+      "answer": 3
     }
   ]
 }
