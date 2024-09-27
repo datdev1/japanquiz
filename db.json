@@ -1,14 +1,59 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "quizzes": [
+    {
+      "id": 1,
+      "word": "ありがとう",
+      "options": [
+        "Thank you",
+        "Hello",
+        "Goodbye",
+        "Excuse me"
+      ],
+      "answer": "Thank you"
+    },
+    {
+      "id": 2,
+      "word": "猫",
+      "options": [
+        "Dog",
+        "Cat",
+        "Bird",
+        "Fish"
+      ],
+      "answer": "Cat"
+    },
+    {
+      "id": 3,
+      "word": "おはよう",
+      "options": [
+        "Good night",
+        "Good evening",
+        "Good morning",
+        "Goodbye"
+      ],
+      "answer": "Good morning"
+    },
+    {
+      "id": 4,
+      "word": "水",
+      "options": [
+        "Water",
+        "Fire",
+        "Air",
+        "Food"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": 5,
+      "word": "愛",
+      "options": [
+        "Dream",
+        "Love",
+        "Strength",
+        "Hope"
+      ],
+      "answer": "Love"
+    }
+  ]
 }
