@@ -1,4 +1,4 @@
-package com.b21dccn216.japanesequizz.network.dto
+package com.b21dccn216.japanesequizz.data.datasource.remote.dto
 
 data class QuestionDTO(
     val id: Int,

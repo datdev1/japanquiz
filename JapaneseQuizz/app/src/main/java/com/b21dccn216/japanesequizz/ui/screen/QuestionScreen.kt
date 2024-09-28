@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import com.b21dccn216.japanesequizz.network.dto.QuestionDTO
+import com.b21dccn216.japanesequizz.data.datasource.remote.dto.QuestionDTO
 import com.b21dccn216.japanesequizz.ui.components.Question
 
 @Composable

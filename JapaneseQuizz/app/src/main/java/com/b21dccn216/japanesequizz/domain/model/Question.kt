@@ -1,4 +1,4 @@
-package com.b21dccn216.japanesequizz.model
+package com.b21dccn216.japanesequizz.domain.model
 
 class Question(
     val id: Int,
@@ -9,5 +9,4 @@ class Question(
     fun checkAnswer(answer: Int): Boolean{
         return this.answer == answer
     }
-    
 }
